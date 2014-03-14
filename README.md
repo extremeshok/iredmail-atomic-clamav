@@ -11,5 +11,5 @@ wget https://raw.github.com/extremeshok/iredmail-atomic-clamav/master/update-ato
 
 chmod +x /etc/cron.daily/update-atomic-clamav
 
-# edit your username and password
+### edit your username and password
 vi /etc/cron.daily/update-atomic-clamav
