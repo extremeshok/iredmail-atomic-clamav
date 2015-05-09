@@ -42,4 +42,4 @@ rm -f /usr/src/VERSION
 rm -f /tmp/atomicorp_clamav.tar.gz 
 rm -rf /tmp/clamav
 
-/etc/init.d/clamd restart
+/etc/init.d/clamd reload
